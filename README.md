@@ -56,7 +56,7 @@ Planning to learn or dig more into :
   <img src="https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask&logoColor=white&style=flat-square">
 </div>
 <br><br>
-My work as a designer :
+Some of my work as a designer :
 <br><br>
 <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:8px;">
   <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/19030886/media/f8cae64c9327df5000a218e25053807b.jpg?compress=1&resize=1000x750&vertical=top">
