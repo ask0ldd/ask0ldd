@@ -55,3 +55,17 @@ Planning to learn or dig more into :
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask&logoColor=white&style=flat-square">
 </div>
+<br><br>
+My work as a designer :
+<br><br>
+<div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:8px;">
+  <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/19030886/media/f8cae64c9327df5000a218e25053807b.jpg?compress=1&resize=1000x750&vertical=top">
+  <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18926904/media/d75fbf18bb718d67567658574da1b8c5.jpg?compress=1&resize=1000x750&vertical=top">
+  <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18554462/media/6fc50b617bebd40ecb1a4260a7880617.png?compress=1&resize=1000x750&vertical=top">
+  <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18518599/media/935307216eebd7724134a06ded70ee70.png?compress=1&resize=1000x750&vertical=top">
+  <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18518589/media/bd1fa3c37d1788038836dbac17984c06.png?compress=1&resize=1000x750&vertical=top">
+  <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18736417/media/ae4868701c568da977a6ccf41947a103.jpg?compress=1&resize=1000x750&vertical=top">
+  <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/19362674/media/4a30ff49544e8070c12b2390618cb167.jpg?compress=1&resize=1000x750&vertical=top">
+  <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/19318849/media/a7ff4fac6f8d413c7672d15699dc9b61.jpg?compress=1&resize=1000x750&vertical=top">
+  <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/19104340/media/c2074ed18ce4d622679ec421d98fb868.jpg?compress=1&resize=1000x750&vertical=top">
+</div>
