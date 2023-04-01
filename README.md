@@ -16,6 +16,7 @@ Currently, I like working with :
   <img src="https://img.shields.io/static/v1?label=&message=NodeJS&color=339933&logo=nodedotjs&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongoDB&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=ExpressJS&color=000000&logo=express&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=white&style=flat-square">
 </div>
 <br>
 <br>
