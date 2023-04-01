@@ -6,3 +6,5 @@
 <br>
 Currently, I like working with :
 
+What I used in the past as a freelancer : 
+<img src="https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=white&style=flat-square">
