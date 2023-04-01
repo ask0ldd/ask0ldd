@@ -35,7 +35,6 @@ What I used in the past as a freelancer :
 What I like to spend my spare time on : 
 <br><br>
 <div style="display:flex;">
-  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4169E1&logo=MySQL&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=CSharp&color=239120&logo=CSharp&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Three.js&color=000000&logo=threedotjs&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=white&style=flat-square">
