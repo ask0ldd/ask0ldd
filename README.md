@@ -8,15 +8,19 @@ Currently, I like working with :
 <br><br>
 <div style="display:flex;">
   <img src="https://img.shields.io/static/v1?label=&message=React&color=0088CC&logo=React&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/static/v1?label=&message=Angular&color=D70040&logo=Angular&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Vite%20JS&color=646CFF&logo=Vite&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=Jest&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=F7DF1E&logo=Javascript&logoColor=black&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Sass&color=CC6699&logo=Sass&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Figma&color=F24E1E&logo=figma&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=NodeJS&color=339933&logo=nodedotjs&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/static/v1?label=&message=Sequelize&color=004B49&logo=Sequelize&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/static/v1?label=&message=SQLite&color=8C92AC&logo=SQLite&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongoDB&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=ExpressJS&color=000000&logo=express&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=086DD7&logo=Docker&logoColor=white&style=flat-square">
 </div>
 <br>
 <br>
@@ -52,7 +56,6 @@ Planning to learn or dig more into :
 <div style="display:flex;">
   <img src="https://img.shields.io/static/v1?label=&message=Puppeteer&color=40B5A4&logo=puppeteer&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask&logoColor=white&style=flat-square">
 </div>
 <br><br>
