@@ -10,8 +10,9 @@ Currently, I like working with :
   <img src="https://img.shields.io/static/v1?label=&message=React&color=0088CC&logo=React&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Angular&color=D70040&logo=Angular&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Vite%20JS&color=646CFF&logo=Vite&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/static/v1?label=&message=Redux&color=764ABC&logo=Redux&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=Jest&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=F7DF1E&logo=Javascript&logoColor=black&style=flat-square">
+  <img src="https://img.shields.io/static/v1?label=&message=Typescript&color=0088CC&logo=Typescript&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Sass&color=CC6699&logo=Sass&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Figma&color=F24E1E&logo=figma&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=NodeJS&color=339933&logo=nodedotjs&logoColor=white&style=flat-square">
