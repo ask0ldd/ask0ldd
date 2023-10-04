@@ -22,6 +22,7 @@ Currently, I like working with :
   <img src="https://img.shields.io/static/v1?label=&message=ExpressJS&color=000000&logo=express&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=086DD7&logo=Docker&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/static/v1?label=&message=Puppeteer&color=40B5A4&logo=puppeteer&logoColor=white&style=flat-square">
 </div>
 <br>
 <br>
@@ -55,7 +56,6 @@ What I like to spend my spare time on :
 Planning to learn or dig more into : 
 <br><br>
 <div style="display:flex;">
-  <img src="https://img.shields.io/static/v1?label=&message=Puppeteer&color=40B5A4&logo=puppeteer&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask&logoColor=white&style=flat-square">
 </div>
