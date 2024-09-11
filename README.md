@@ -72,7 +72,7 @@ Some of my work as a designer :
 <br><br>
 <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:8px; width: 100%;">
   <img style="width:100%;" src="https://cdn.dribbble.com/users/12159136/screenshots/19030886/media/f8cae64c9327df5000a218e25053807b.jpg?compress=1&resize=1000x750&vertical=top">
-  <img style="width:100%%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18926904/media/d75fbf18bb718d67567658574da1b8c5.jpg?compress=1&resize=1000x750&vertical=top">
+  <img style="width:100%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18926904/media/d75fbf18bb718d67567658574da1b8c5.jpg?compress=1&resize=1000x750&vertical=top">
   <img style="width:100%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18554462/media/6fc50b617bebd40ecb1a4260a7880617.png?compress=1&resize=1000x750&vertical=top">
   <img style="width:100%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18518599/media/935307216eebd7724134a06ded70ee70.png?compress=1&resize=1000x750&vertical=top">
   <img style="width:100%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18518589/media/bd1fa3c37d1788038836dbac17984c06.png?compress=1&resize=1000x750&vertical=top">
