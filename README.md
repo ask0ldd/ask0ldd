@@ -1,4 +1,4 @@
-<div style="display:flex;">
+ki<div style="display:flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask0ldd&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=ask0ldd&show_icons=true&hide_border=false&line_height=20&title_color=2d5ded&show_owner=trues&hide_rank=true&number_format=long&hide=stars">
 </div>
@@ -62,7 +62,7 @@ Planning to learn or dig more into :
 <br><br>
 Some of my work as a designer :
 <br><br>
-<div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:8px;">
+<div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:8px; width: 100%;">
   <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/19030886/media/f8cae64c9327df5000a218e25053807b.jpg?compress=1&resize=1000x750&vertical=top">
   <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18926904/media/d75fbf18bb718d67567658574da1b8c5.jpg?compress=1&resize=1000x750&vertical=top">
   <img style="width:33%;" src="https://cdn.dribbble.com/users/12159136/screenshots/18554462/media/6fc50b617bebd40ecb1a4260a7880617.png?compress=1&resize=1000x750&vertical=top">
