@@ -42,7 +42,7 @@ What I used in the past as a freelancer :
 I'm currently working on a local alternative to ChatGPT and Perplexity called OSspita : 
 <br><br>
 <div style="display:flex;">
-  <img src="https://github.com/ask0ldd/OsspitaUI/blob/main/Front/src/assets/screenshot1.png"/>
+  <a href="https://github.com/ask0ldd/OsspitaUI"><img src="https://github.com/ask0ldd/OsspitaUI/blob/main/Front/src/assets/screenshot1.png"/></a>
 </div>
 <br><br>
 Some of my work as a designer :
