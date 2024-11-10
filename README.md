@@ -39,17 +39,10 @@ What I used in the past as a freelancer :
 </div>
 <br>
 <br>
-What I like to spend my spare time on : 
+I'm currently working on a local alternative to ChatGPT and Perplexity called OSspita : 
 <br><br>
 <div style="display:flex;">
-  <img src="https://img.shields.io/static/v1?label=&message=CSharp&color=239120&logo=CSharp&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/static/v1?label=&message=Three.js&color=000000&logo=threedotjs&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/static/v1?label=&message=Arduino&color=00979D&logo=Arduino&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/static/v1?label=&message=OpenCV&color=5C3EE8&logo=OpenCV&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/static/v1?label=&message=Unity3D&color=FFFFFF&logo=unity&logoColor=black&style=flat-square">
-  <img src="https://img.shields.io/static/v1?label=&message=OpenGL&color=5586A4&logo=opengl&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&logo=amazonaws&logoColor=white&style=flat-square">
+  <img src="https://github.com/ask0ldd/OsspitaUI/blob/main/Front/src/assets/screenshot1.png"/>
 </div>
 <br>
 <br>
