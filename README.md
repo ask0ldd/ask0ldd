@@ -44,14 +44,6 @@ I'm currently working on a local alternative to ChatGPT and Perplexity called OS
 <div style="display:flex;">
   <img src="https://github.com/ask0ldd/OsspitaUI/blob/main/Front/src/assets/screenshot1.png"/>
 </div>
-<br>
-<br>
-Planning to learn or dig more into : 
-<br><br>
-<div style="display:flex;">
-  <img src="https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask&logoColor=white&style=flat-square">
-</div>
 <br><br>
 Some of my work as a designer :
 <br><br>
