@@ -4,7 +4,7 @@
 </div>
 <br>
 <br>
-Currently, I like working with :
+I really like working with :
 <br><br>
 <div style="display:flex;">
   <img src="https://img.shields.io/static/v1?label=&message=React&color=0088CC&logo=React&logoColor=white&style=flat-square">
@@ -39,7 +39,7 @@ What I used in the past as a freelancer :
 </div>
 <br>
 <br>
-I'm currently working on a local alternative to ChatGPT and Perplexity called OSspita : 
+I'm currently working on a <b>local alternative to ChatGPT and Perplexity called OSspita</b>. It relies on <b>Ollama for inference</b> : 
 <br><br>
 <div style="display:flex;">
   <a href="https://github.com/ask0ldd/OsspitaUI"><img src="https://github.com/ask0ldd/OsspitaUI/blob/main/Front/src/assets/screenshot1.png"/></a>
