@@ -39,7 +39,7 @@ What I used in the past as a freelancer :
 </div>
 <br>
 <br>
-I'm currently working on a <b style="color:#0096FF;">local alternative to ChatGPT &#38; Perplexity called OSspita</b>. It relies on <b style="color:#0096FF;">Ollama for inference</b> : 
+I'm currently working on a <b style="color:#0096FF;"><u>local alternative to ChatGPT &#38; Perplexity called OSspita</u></b>. It relies on <b style="color:#0096FF;"><u>Ollama for inference</u></b> : 
 <br><br>
 <div style="display:flex;">
   <a href="https://github.com/ask0ldd/OsspitaUI"><img src="https://github.com/ask0ldd/OsspitaUI/blob/main/Front/src/assets/screenshot1.png"/></a>
