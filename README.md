@@ -4,7 +4,7 @@
 </div>
 <br>
 <br>
-If you are looking to hire a frontend engineer, you can contact me through : <a href="www.linkedin.com/in/cedric-b-efflam-071085284">linkedin</a>
+If you are looking to hire a frontend engineer, you can contact me through : <a href="https://www.linkedin.com/in/cedric-b-efflam-071085284">linkedin</a>
 <br>
 <br>
 I really like working with :
