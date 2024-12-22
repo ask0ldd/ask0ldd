@@ -47,11 +47,11 @@ I'm currently working on a <b style="color:#0096FF;"><u>local alternative to Cha
 Video Demo : <a href="https://www.youtube.com/watch?v=zKxcANYu-9I">Watch on Youtube</a>
 <br><br>
 <div style="display:flex;">
-  <a href="https://github.com/ask0ldd/OsspitaUI"><img src="https://github.com/ask0ldd/OsspitaUI/blob/main/Front/src/assets/screenshot1.png"/></a>
+  <a href="https://github.com/ask0ldd/OsspitaUI"><img src="https://github.com/ask0ldd/OsspitaUI/blob/main/Front/src/assets/screenshot2.png"/></a>
 </div>
 <br><br>
 Some of my work as a designer :
 <br><br>
 <div style="display:flex;">
-  <a style="width:100%;" href="https://dribbble.com/C_DeSoriac"><img style="width:100%;" src="https://raw.githubusercontent.com/ask0ldd/ask0ldd/master/screenshots2.png"></a>
+  <a style="width:100%;" href="https://dribbble.com/C_DeSoriac"><img style="width:100%;" src="https://raw.githubusercontent.com/ask0ldd/ask0ldd/master/screenshots.png"></a>
 </div>
