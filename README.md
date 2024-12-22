@@ -4,6 +4,9 @@
 </div>
 <br>
 <br>
+If you are looking to hire a frontend engineer, you can contact me at this email address: : asklddgit@gmx.com
+<br>
+<br>
 I really like working with :
 <br><br>
 <div style="display:flex;">
@@ -50,5 +53,5 @@ Video Demo : <a href="https://www.youtube.com/watch?v=zKxcANYu-9I">Watch on Yout
 Some of my work as a designer :
 <br><br>
 <div style="display:flex;">
-  <a style="width:100%;" href="https://dribbble.com/C_DeSoriac"><img style="width:100%;" src="https://raw.githubusercontent.com/ask0ldd/ask0ldd/master/screenshots.png"></a>
+  <a style="width:100%;" href="https://dribbble.com/C_DeSoriac"><img style="width:100%;" src="https://raw.githubusercontent.com/ask0ldd/ask0ldd/master/screenshots2.png"></a>
 </div>
