@@ -37,7 +37,6 @@ What I used in the past as a freelancer :
   <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4169E1&logo=MySQL&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Codeigniter&color=EF4223&logo=Codeigniter&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=XAMPP&color=FB7A24&logo=xampp&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/static/v1?label=&message=After Effects&color=9999FF&logo=adobeaftereffects&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Blender&color=F5792A&logo=blender&logoColor=white&style=flat-square">
 </div>
 <br>
